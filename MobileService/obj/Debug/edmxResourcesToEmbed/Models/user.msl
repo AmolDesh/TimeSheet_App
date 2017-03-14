@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Mapping Space="C-S" xmlns="http://schemas.microsoft.com/ado/2009/11/mapping/cs">
+  <EntityContainerMapping StorageEntityContainer="QMT_TESTModelStoreContainer" CdmEntityContainer="QMT_TESTEntities">
+    <EntitySetMapping Name="AD_Customer">
+      <EntityTypeMapping TypeName="QMT_TESTModel.AD_Customer">
+        <MappingFragment StoreEntitySet="AD_Customer">
+          <ScalarProperty Name="Comments" ColumnName="Comments" />
+          <ScalarProperty Name="To" ColumnName="To" />
+          <ScalarProperty Name="From" ColumnName="From" />
+          <ScalarProperty Name="Date" ColumnName="Date" />
+          <ScalarProperty Name="Id" ColumnName="Id" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+  </EntityContainerMapping>
+</Mapping>

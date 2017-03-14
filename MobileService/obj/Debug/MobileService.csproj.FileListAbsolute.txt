@@ -1,0 +1,80 @@
+E:\HybridApps\AngularJSCRUD\MobileService\bin\MobileService.dll.config
+E:\HybridApps\AngularJSCRUD\MobileService\bin\MobileService.dll
+E:\HybridApps\AngularJSCRUD\MobileService\bin\MobileService.pdb
+E:\HybridApps\AngularJSCRUD\MobileService\bin\EntityFramework.dll
+E:\HybridApps\AngularJSCRUD\MobileService\bin\EntityFramework.SqlServer.dll
+E:\HybridApps\AngularJSCRUD\MobileService\bin\Newtonsoft.Json.dll
+E:\HybridApps\AngularJSCRUD\MobileService\bin\System.Net.Http.Formatting.dll
+E:\HybridApps\AngularJSCRUD\MobileService\bin\System.Web.Http.dll
+E:\HybridApps\AngularJSCRUD\MobileService\bin\System.Web.Http.WebHost.dll
+E:\HybridApps\AngularJSCRUD\MobileService\bin\EntityFramework.xml
+E:\HybridApps\AngularJSCRUD\MobileService\bin\EntityFramework.SqlServer.xml
+E:\HybridApps\AngularJSCRUD\MobileService\bin\Newtonsoft.Json.xml
+E:\HybridApps\AngularJSCRUD\MobileService\bin\System.Net.Http.Formatting.xml
+E:\HybridApps\AngularJSCRUD\MobileService\bin\System.Web.Http.xml
+E:\HybridApps\AngularJSCRUD\MobileService\bin\System.Web.Http.WebHost.xml
+E:\HybridApps\AngularJSCRUD\MobileService\obj\Debug\MobileService.dll
+E:\HybridApps\AngularJSCRUD\MobileService\obj\Debug\MobileService.pdb
+E:\HybridApps\AngularJSCRUD\MobileService\obj\Debug\MobileService.Migrations.initial.resources
+E:\HybridApps\AngularJSCRUD\MobileService\obj\Debug\MobileService.csproj.GenerateResource.Cache
+E:\HybridApps\AngularJSCRUD\MobileService\obj\Debug\MobileService.csprojResolveAssemblyReference.cache
+E:\HybridApps\AngularJS-BootStrapCRUD\MobileService\bin\MobileService.dll.config
+E:\HybridApps\AngularJS-BootStrapCRUD\MobileService\bin\MobileService.dll
+E:\HybridApps\AngularJS-BootStrapCRUD\MobileService\bin\MobileService.pdb
+E:\HybridApps\AngularJS-BootStrapCRUD\MobileService\bin\EntityFramework.dll
+E:\HybridApps\AngularJS-BootStrapCRUD\MobileService\bin\EntityFramework.SqlServer.dll
+E:\HybridApps\AngularJS-BootStrapCRUD\MobileService\bin\Newtonsoft.Json.dll
+E:\HybridApps\AngularJS-BootStrapCRUD\MobileService\bin\System.Net.Http.Formatting.dll
+E:\HybridApps\AngularJS-BootStrapCRUD\MobileService\bin\System.Web.Http.dll
+E:\HybridApps\AngularJS-BootStrapCRUD\MobileService\bin\System.Web.Http.WebHost.dll
+E:\HybridApps\AngularJS-BootStrapCRUD\MobileService\bin\EntityFramework.xml
+E:\HybridApps\AngularJS-BootStrapCRUD\MobileService\bin\EntityFramework.SqlServer.xml
+E:\HybridApps\AngularJS-BootStrapCRUD\MobileService\bin\Newtonsoft.Json.xml
+E:\HybridApps\AngularJS-BootStrapCRUD\MobileService\bin\System.Net.Http.Formatting.xml
+E:\HybridApps\AngularJS-BootStrapCRUD\MobileService\bin\System.Web.Http.xml
+E:\HybridApps\AngularJS-BootStrapCRUD\MobileService\bin\System.Web.Http.WebHost.xml
+E:\HybridApps\AngularJS-BootStrapCRUD\MobileService\obj\Debug\MobileService.csprojResolveAssemblyReference.cache
+E:\HybridApps\AngularJS-BootStrapCRUD\MobileService\obj\Debug\MobileService.Migrations.initial.resources
+E:\HybridApps\AngularJS-BootStrapCRUD\MobileService\obj\Debug\MobileService.csproj.GenerateResource.Cache
+E:\HybridApps\AngularJS-BootStrapCRUD\MobileService\obj\Debug\MobileService.dll
+E:\HybridApps\AngularJS-BootStrapCRUD\MobileService\obj\Debug\MobileService.pdb
+F:\Hybrid Apps Training\AngularJS\AngularJS-BootStrapCRUD\MobileService\bin\MobileService.dll.config
+F:\Hybrid Apps Training\AngularJS\AngularJS-BootStrapCRUD\MobileService\bin\MobileService.dll
+F:\Hybrid Apps Training\AngularJS\AngularJS-BootStrapCRUD\MobileService\bin\MobileService.pdb
+F:\Hybrid Apps Training\AngularJS\AngularJS-BootStrapCRUD\MobileService\bin\EntityFramework.dll
+F:\Hybrid Apps Training\AngularJS\AngularJS-BootStrapCRUD\MobileService\bin\EntityFramework.SqlServer.dll
+F:\Hybrid Apps Training\AngularJS\AngularJS-BootStrapCRUD\MobileService\bin\Newtonsoft.Json.dll
+F:\Hybrid Apps Training\AngularJS\AngularJS-BootStrapCRUD\MobileService\bin\System.Net.Http.Formatting.dll
+F:\Hybrid Apps Training\AngularJS\AngularJS-BootStrapCRUD\MobileService\bin\System.Web.Http.dll
+F:\Hybrid Apps Training\AngularJS\AngularJS-BootStrapCRUD\MobileService\bin\System.Web.Http.WebHost.dll
+F:\Hybrid Apps Training\AngularJS\AngularJS-BootStrapCRUD\MobileService\bin\EntityFramework.xml
+F:\Hybrid Apps Training\AngularJS\AngularJS-BootStrapCRUD\MobileService\bin\EntityFramework.SqlServer.xml
+F:\Hybrid Apps Training\AngularJS\AngularJS-BootStrapCRUD\MobileService\bin\Newtonsoft.Json.xml
+F:\Hybrid Apps Training\AngularJS\AngularJS-BootStrapCRUD\MobileService\bin\System.Net.Http.Formatting.xml
+F:\Hybrid Apps Training\AngularJS\AngularJS-BootStrapCRUD\MobileService\bin\System.Web.Http.xml
+F:\Hybrid Apps Training\AngularJS\AngularJS-BootStrapCRUD\MobileService\bin\System.Web.Http.WebHost.xml
+F:\Hybrid Apps Training\AngularJS\AngularJS-BootStrapCRUD\MobileService\obj\Debug\MobileService.csprojResolveAssemblyReference.cache
+F:\Hybrid Apps Training\AngularJS\AngularJS-BootStrapCRUD\MobileService\obj\Debug\MobileService.Migrations.initial.resources
+F:\Hybrid Apps Training\AngularJS\AngularJS-BootStrapCRUD\MobileService\obj\Debug\MobileService.csproj.GenerateResource.Cache
+F:\Hybrid Apps Training\AngularJS\AngularJS-BootStrapCRUD\MobileService\obj\Debug\MobileService.dll
+F:\Hybrid Apps Training\AngularJS\AngularJS-BootStrapCRUD\MobileService\obj\Debug\MobileService.pdb
+C:\Users\desamol\Downloads\AngularJS-BootStrapCRUD\AngularJS-BootStrapCRUD\MobileService\bin\MobileService.dll.config
+C:\Users\desamol\Downloads\AngularJS-BootStrapCRUD\AngularJS-BootStrapCRUD\MobileService\bin\MobileService.dll
+C:\Users\desamol\Downloads\AngularJS-BootStrapCRUD\AngularJS-BootStrapCRUD\MobileService\bin\MobileService.pdb
+C:\Users\desamol\Downloads\AngularJS-BootStrapCRUD\AngularJS-BootStrapCRUD\MobileService\bin\EntityFramework.dll
+C:\Users\desamol\Downloads\AngularJS-BootStrapCRUD\AngularJS-BootStrapCRUD\MobileService\bin\EntityFramework.SqlServer.dll
+C:\Users\desamol\Downloads\AngularJS-BootStrapCRUD\AngularJS-BootStrapCRUD\MobileService\bin\Newtonsoft.Json.dll
+C:\Users\desamol\Downloads\AngularJS-BootStrapCRUD\AngularJS-BootStrapCRUD\MobileService\bin\System.Net.Http.Formatting.dll
+C:\Users\desamol\Downloads\AngularJS-BootStrapCRUD\AngularJS-BootStrapCRUD\MobileService\bin\System.Web.Http.dll
+C:\Users\desamol\Downloads\AngularJS-BootStrapCRUD\AngularJS-BootStrapCRUD\MobileService\bin\System.Web.Http.WebHost.dll
+C:\Users\desamol\Downloads\AngularJS-BootStrapCRUD\AngularJS-BootStrapCRUD\MobileService\bin\EntityFramework.xml
+C:\Users\desamol\Downloads\AngularJS-BootStrapCRUD\AngularJS-BootStrapCRUD\MobileService\bin\EntityFramework.SqlServer.xml
+C:\Users\desamol\Downloads\AngularJS-BootStrapCRUD\AngularJS-BootStrapCRUD\MobileService\bin\Newtonsoft.Json.xml
+C:\Users\desamol\Downloads\AngularJS-BootStrapCRUD\AngularJS-BootStrapCRUD\MobileService\bin\System.Net.Http.Formatting.xml
+C:\Users\desamol\Downloads\AngularJS-BootStrapCRUD\AngularJS-BootStrapCRUD\MobileService\bin\System.Web.Http.xml
+C:\Users\desamol\Downloads\AngularJS-BootStrapCRUD\AngularJS-BootStrapCRUD\MobileService\bin\System.Web.Http.WebHost.xml
+C:\Users\desamol\Downloads\AngularJS-BootStrapCRUD\AngularJS-BootStrapCRUD\MobileService\obj\Debug\MobileService.Migrations.initial.resources
+C:\Users\desamol\Downloads\AngularJS-BootStrapCRUD\AngularJS-BootStrapCRUD\MobileService\obj\Debug\MobileService.csproj.GenerateResource.Cache
+C:\Users\desamol\Downloads\AngularJS-BootStrapCRUD\AngularJS-BootStrapCRUD\MobileService\obj\Debug\MobileService.dll
+C:\Users\desamol\Downloads\AngularJS-BootStrapCRUD\AngularJS-BootStrapCRUD\MobileService\obj\Debug\MobileService.pdb
+C:\Users\desamol\Downloads\AngularJS-BootStrapCRUD\AngularJS-BootStrapCRUD\MobileService\obj\Debug\MobileService.csprojResolveAssemblyReference.cache
