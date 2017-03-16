@@ -11,20 +11,6 @@ namespace MobileService.Models
     {
         public int Id { get; set; }
 
-        //[Required]
-        //[MaxLength(50)]
-        //[Column(TypeName = "varchar")]
-        //public string Name { get; set; }
-
-        //[Required]
-        //[MaxLength(200)]
-        //[Column(TypeName = "varchar")]
-        //public string Address { get; set; }
-
-        //[Column(TypeName = "varchar")]
-        //[MaxLength(15)]
-        //public string ContactNo { get; set; }
-
         [Required]
         [MaxLength(200)]
         [Column(TypeName = "varchar")]
